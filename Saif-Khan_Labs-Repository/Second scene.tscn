@@ -1,0 +1,38 @@
+[gd_scene load_steps=6 format=3 uid="uid://kdujrjnuuqvl"]
+
+[ext_resource type="Texture2D" uid="uid://dfbeeb3yr0wew" path="res://pngtree-a-painting-of-sunset-with-clouds-and-red-sky-png-image_9126645.png" id="1_vesp6"]
+[ext_resource type="Texture2D" uid="uid://bmm2237wr6f0k" path="res://Castle-Download-PNG.png" id="2_8x4qi"]
+[ext_resource type="Texture2D" uid="uid://m72u5vahgn6t" path="res://pngtree-giant-boulder-on-the-grassy-hillside-fluffy-cloud-ground-rise-png-image_12098512.png" id="3_3rm4q"]
+[ext_resource type="Texture2D" uid="uid://cinm2uhafh8nc" path="res://ujzh30k5tuoy.png.webp" id="4_er6q1"]
+[ext_resource type="Texture2D" uid="uid://dn22ir5frgoln" path="res://dg7ag6i-ed2e8c4f-6849-41c5-872c-383da4d71ce4.png" id="5_pmrnb"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Pngtree-a-painting-of-sunset-with-clouds-and-red-sky-png-image9126645" type="Sprite2D" parent="."]
+position = Vector2(1199, 721)
+scale = Vector2(6.22778, 3.97778)
+texture = ExtResource("1_vesp6")
+
+[node name="Castle-download-png" type="Sprite2D" parent="."]
+position = Vector2(1116, 540)
+scale = Vector2(2.51256, 1.72864)
+texture = ExtResource("2_8x4qi")
+
+[node name="Panorama-rocks-ground-cutout-backgrounds-3d-illustrations-png" type="Sprite2D" parent="."]
+position = Vector2(1159, 1111)
+scale = Vector2(3.70714, 1.99)
+
+[node name="Pngtree-giant-boulder-on-the-grassy-hillside-fluffy-cloud-ground-rise-png-image12098512" type="Sprite2D" parent="."]
+position = Vector2(1200.5, 953)
+scale = Vector2(3.99107, 1.62778)
+texture = ExtResource("3_3rm4q")
+
+[node name="Ujzh30k5Tuoy_png" type="Sprite2D" parent="."]
+position = Vector2(1606, 868)
+scale = Vector2(1.33594, 1.28125)
+texture = ExtResource("4_er6q1")
+
+[node name="Dg7Ag6i-ed2e8c4f-6849-41c5-872c-383Da4d71Ce4" type="Sprite2D" parent="."]
+position = Vector2(1895, 671)
+scale = Vector2(0.5625, 0.560618)
+texture = ExtResource("5_pmrnb")
