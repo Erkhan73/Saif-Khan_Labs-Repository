@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://dpucioccc6axq"]
+
+[ext_resource type="Texture2D" uid="uid://c4g6lidbeduss" path="res://old-patrick-star-cartoon-characters-spongebob-png-27.png" id="1_i2y8c"]
+[ext_resource type="Script" path="res://old_patrick_star_cartoon_characters_spongebob_png_27.gd" id="2_x06mu"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Icon" type="Sprite2D" parent="."]
+position = Vector2(490, 384)
+scale = Vector2(3.71875, 3.67188)
+
+[node name="Old-patrick-star-cartoon-characters-spongebob-png-27" type="Sprite2D" parent="."]
+position = Vector2(169, 329)
+scale = Vector2(0.6125, 0.5)
+texture = ExtResource("1_i2y8c")
+script = ExtResource("2_x06mu")
